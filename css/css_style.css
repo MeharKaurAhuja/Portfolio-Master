@@ -1,0 +1,21 @@
+body{
+  padding: 2% 0%;
+}
+.table-bordered{
+  padding: 18px;
+  margin: 12px;
+  margin-bottom: 25px;
+}
+
+.text-primary{
+  text-align: center;
+  font-family: 'Itim', cursive;
+  font-size: 50px;
+}
+.article{
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.text-justify{
+  font-size: 15px;
+  font-family: 'Questrial', sans-serif;
+}
