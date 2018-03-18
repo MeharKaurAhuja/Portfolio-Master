@@ -1,4 +1,4 @@
-# PORTFOLIO-WEBSITE
+# PORTFOLIO-PROJECT
 ## by Mehar Kaur Ahuja
 Udacity Project2
 
@@ -22,7 +22,7 @@ This project consists for the following files:
 
 ## How to Run Project
 
--Firstly, download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.
+- Firstly, download the project zip file to you computer and unzip the file. Or clone this repository to your desktop.
 - Now, you will see various sub-folders such as css, image and a file index.html.
 - Open the index.html file by double-clicking on it or by pressing right mouse once and selecting open option.
 - You will see the webpage in your default browser.
